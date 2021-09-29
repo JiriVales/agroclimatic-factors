@@ -5,7 +5,7 @@ Input: NeCDF files (each year one file) from Copernicus Climate Data Store; sele
 
 Output: geojson/shapefiles with calculated agroclimatic factors
 
-Description and more informations in Wiki and in my master thesis (link will be available soon)
+Description and more informations in Wiki and in my master thesis (link: https://drive.google.com/file/d/1tgVQJAU9t6TqK-MG_4uek9r7qUdS98-8/view?usp=sharing)
 
 Python files 1-8: algorithms
 
